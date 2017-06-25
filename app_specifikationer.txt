@@ -1,0 +1,43 @@
+kravspecifikation
+
+NAVN
+LOGO
+
+Appen skal bruges til at koordinere mellem hjælpere, forædlre, handikappede og kommunen.
+
+Appen skal hjælpe med at holde styr på hjælperes timer, så det er lettere at udbetale løn. 
+
+På et senere tidspunkt er det også muligt at have en form for match-making hvor man sætter hjælpere og handikappede sammen.
+
+Appen skal have sin egen kalender
+Både hjælpere og forældre skal kunne tilføje events
+Man skal kunne få en udførlig liste over alt der er sket, som også lægger det sammen og rapporterer det til kommunnen
+
+
+Ens profil skal have et billede og navn, men andet er ikke vigtigt i første omgang 
+(ikke før matchmaking evt bliver implementeret - her vi
+l vi også gerne kigge på Facebook login og eventuelt at man selv kan oprette sig i stedet for at det skal foregå igennem os?)
+
+Chat funktion i fremtiden?
+
+
+Vi skal have skrevet det pænere og delt det op:
+
+Name: helpr (already taken. something similar?)
+Logo: 
+Design: 
+Target groups: 
+
+Minimum viable product:
+Calendar and comprehensive list of all hours by all helpers, sorted and summed.
+Coordinators create their own accounts. then they create accounts for the helpers? (or we create accounts for the coordinators?)
+Profiles (1 picture, 1 summary, first name, last name, email, date of birth, address)
+
+Change profile data, reset password etc.
+
+
+Future:
+Matchmaking
+Chat
+Profiles (social media ish?) (Possibly taken from Facebook or LinkedIn?)
+
