@@ -1,11 +1,31 @@
-<ion-header>
-  <ion-navbar>
-    <ion-title>
-      Ionic Blank
-    </ion-title>
-  </ion-navbar>
-</ion-header>
+<ion-content padding class="homeBG">
 
-<ion-content padding>
-  asds
+  <ion-grid>
+
+    <ion-row>
+      <ion-col text-center>
+        LOGO
+      </ion-col>
+    </ion-row>
+
+    <ion-row>
+      <ion-col text-center>
+        APP NAVN
+      </ion-col>
+    </ion-row>
+
+    <ion-row class="space50"> &nbsp;
+    </ion-row>
+
+    <ion-row>
+      <ion-col text-center>
+        <button ion-button block mode="wp" (click)="helperPush()">Er du hjælper?
+        </button>
+      </ion-col>
+            <ion-col text-center>
+        <button ion-button block mode="wp" (click)="coordinatorPush()">Er du koordinator?
+        </button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
 </ion-content>
