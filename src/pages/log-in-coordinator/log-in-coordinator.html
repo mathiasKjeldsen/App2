@@ -1,0 +1,49 @@
+<ion-content padding class="homeBG">
+
+  <ion-grid>
+
+    <ion-row>
+      <ion-col text-center>
+        LOGO
+      </ion-col>
+    </ion-row>
+
+    <ion-row>
+      <ion-col text-center>
+        Log in as helper
+      </ion-col>
+    </ion-row>
+
+    <ion-row class="space50"> &nbsp;
+    </ion-row>
+
+    <ion-row>
+      <ion-col text-center>
+        <ion-list no-lines mode="ios">
+          <ion-item>
+            <ion-label stacked mode="md">Email Address</ion-label>
+            <ion-input type="email" mode="md">
+            </ion-input>
+          </ion-item>
+          <ion-item>
+            <ion-label stacked mode="md">Password</ion-label>
+            <ion-input type="password" mode="md">
+            </ion-input>
+          </ion-item>
+        </ion-list>
+      </ion-col>
+    </ion-row>
+
+    <ion-row>
+      <ion-col text-center>
+        <button ion-button block mode="wp" (click)="goToNextPage()">Log in
+        </button>
+      </ion-col>
+            <ion-col text-center>
+        <button ion-button block mode="wp" (click)="goToNextPage()">Create account
+        </button>
+      </ion-col>
+    </ion-row>
+
+  </ion-grid>
+</ion-content>
